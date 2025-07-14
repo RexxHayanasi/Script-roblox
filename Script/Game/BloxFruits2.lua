@@ -1,5 +1,5 @@
-print("https://discord.gg/aUd8umqUKu")
-toclipboard("https://discord.gg/aUd8umqUKu")
+print("https://Archavebloxian.vercel.app")
+toclipboard("https://Archavebloxian.vercel.app")
 if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Death") then
 	game:GetService("ReplicatedStorage").Effect.Container.Death:Destroy()
 end
